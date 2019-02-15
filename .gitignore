@@ -1,0 +1,8 @@
+# Exported Appliactions
+exports/
+# application.windows32
+# application.windows64
+
+# Zipped Applications
+# Image Resize Utility.exe
+# Image Resize Utility (64bit).exe
